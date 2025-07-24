@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @reneejoo22
-
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning ... Machine Learning and Deep Learning.
 - 💞️ I’m preparing for the contest on Kaggle with my friends.
